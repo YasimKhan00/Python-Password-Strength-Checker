@@ -38,7 +38,7 @@ https://www.python.org/downloads/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/YasimKhan00/Python-Password-Strength-Checker.git
 ```
 
 Or download the project as a ZIP file.
